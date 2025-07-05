@@ -1,14 +1,9 @@
 ---
-title: API Reference
-
-language_tabs: # must be one of https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers
-  - shell
-  - ruby
-  - python
-  - javascript
+title: SRK 공식 문서
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='https://discord.com/oauth2/authorize?client_id=1388420119415492740'>봇 추가하기</a>
+  - <a href='https://aztra.xyz/invite/g0nubYF0'>서포트 서버</a>
   - <a href='https://github.com/slatedocs/slate'>Documentation Powered by Slate</a>
 
 includes:
@@ -20,8 +15,18 @@ code_clipboard: true
 
 meta:
   - name: description
-    content: Documentation for the Kittn API
+    content: 로블록스 디스코드 서버 보안봇, SRK봇
 ---
+
+<!-- <aside class="notice">
+You must replace <code>meowmeowmeow</code> with your personal API key.
+</aside> 
+
+<aside class="success">
+Remember — a happy kitten is an authenticated kitten!
+</aside>
+
+<aside class="warning">Inside HTML code blocks like this one, you can't use Markdown, so use <code>&lt;code&gt;</code> blocks to denote code.</aside> -->
 
 # Introduction
 
