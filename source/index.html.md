@@ -16,6 +16,8 @@ code_clipboard: true
 meta:
   - name: description
     content: 로블록스 디스코드 서버 보안봇, SRK봇
+  - property: og:type
+    content: website
 ---
 
 <!-- <aside class="notice">
