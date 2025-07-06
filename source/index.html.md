@@ -18,6 +18,12 @@ meta:
     content: 로블록스 디스코드 서버 보안봇, SRK봇
   - property: og:type
     content: website
+  - property: og:title
+    content: SRK 공식 문서
+  - property: og:description
+    content: 로블록스 디스코드 서버 보안봇, SRK봇
+  - property: og:url
+    content: https://srk.ggm.kr
 ---
 
 <!-- <aside class="notice">
